@@ -1,0 +1,8 @@
+This analysis shows the growth from two periods on 2018. I wanted to tackle two question:
+1. What are growth parameters in January and December?
+2. Does this align with quarterly growth?
+
+I found two interesting phenomenons while investigating growth in 2018:
+
+1. The third quarter there was the most miles travelled
+2. Van Vorst Park was the most popular station in the beginning of year and Hamilton park was the most popular at the end of the year.
